@@ -1,0 +1,20 @@
+* Comparison Analysis -> It invovles comparing different variable, groups , or scenario to identify similarities, difference,pattern,trends
+
+ex- > compare sales and profit across the region
+
+* Ranking Analysis -> Process of evaluting and analying the ranking of items, entities or data based on
+certain criteria or attributes.
+
+Ex- > find top 5 product in item of sales
+
+
+* Contribution Analysis-> It is powerful tool that helps the business and organization to
+Analyze the contribution of various factor towards the particular outcome
+
+Ex- > Analyze the contribution of category towards the sales , revenue etc.
+
+
+* Pareto Analysis-> It is also known as 80/20 rule , is a management tool used to identify the 
+most significant factor or causes that contribute to particular outcome. in pareto analysis it is assumed that
+80 % of the effects are caused by 20% of the factors.
+
